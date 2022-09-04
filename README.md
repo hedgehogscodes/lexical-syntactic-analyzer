@@ -20,18 +20,18 @@
 Входные данные:
 <div>
 <p>
-  <img  src=""/>
+  <img  src="https://github.com/hedgehogscodes/lexical-syntactic-analyzer/blob/main/assets/входные.png"/>
 </p>
 </div>
 Вывод токенов:
 <div>
 <p>
-  <img  src=""/>
+  <img  src="https://github.com/hedgehogscodes/lexical-syntactic-analyzer/blob/main/assets/токены.png"/>
 </p>
 </div>
 Результат:
 <div>
 <p>
-  <img  src=""/>
+  <img  src="https://github.com/hedgehogscodes/lexical-syntactic-analyzer/blob/main/assets/выходные.png"/>
 </p>
 </div>
