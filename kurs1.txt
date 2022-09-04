@@ -1,0 +1,26 @@
+Module Module2
+    Structure Book
+        Dim name As String
+        Dim author As String
+        Dim year As Integer
+        Sub Information()
+            WriteLine(year)
+        End Sub
+ 
+    End Structure
+ 
+    Sub Main()
+ 
+        Dim book1 As Book
+        book1.name = "War"
+        book1.author = "William"
+        book1.year = 1869
+        Information()
+        ReadLine(book)
+    End Sub
+
+	For i As Integer = 1 To 9
+    		WriteLine("OK")
+	Next
+
+End Module

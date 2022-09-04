@@ -1,0 +1,7 @@
+﻿  Kursovoy proekt.cpp
+C:\Users\zjora\Desktop\lexical-syntactic-analyzer\Kursovoy proekt\SYNTAX.h(579,10): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
+C:\Users\zjora\Desktop\lexical-syntactic-analyzer\Kursovoy proekt\SYNTAX.h(420): warning C4715: IF: значение возвращается не при всех путях выполнения
+C:\Users\zjora\Desktop\lexical-syntactic-analyzer\Kursovoy proekt\SYNTAX.h(211): warning C4715: CicleFor: значение возвращается не при всех путях выполнения
+C:\Users\zjora\Desktop\lexical-syntactic-analyzer\Kursovoy proekt\SYNTAX.h(247): warning C4715: CicleWhile: значение возвращается не при всех путях выполнения
+C:\Users\zjora\Desktop\lexical-syntactic-analyzer\Kursovoy proekt\SYNTAX.h(725): warning C4715: Func: значение возвращается не при всех путях выполнения
+  Kursovoy proekt.vcxproj -> C:\Users\zjora\Desktop\lexical-syntactic-analyzer\Debug\Kursovoy proekt.exe

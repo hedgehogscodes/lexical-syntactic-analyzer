@@ -1,0 +1,75 @@
+ID:0  VALUE:Module            TYPE:Ключевое слово
+ID:1  VALUE:Module2            TYPE:Идентификатор
+ID:2  VALUE:Structure            TYPE:Ключевое слово
+ID:3  VALUE:Book            TYPE:Идентификатор
+ID:4  VALUE:Dim            TYPE:Ключевое слово
+ID:5  VALUE:name            TYPE:Идентификатор
+ID:6  VALUE:As            TYPE:Ключевое слово
+ID:7  VALUE:String            TYPE:Тип переменной
+ID:8  VALUE:Dim            TYPE:Ключевое слово
+ID:9  VALUE:author            TYPE:Идентификатор
+ID:10  VALUE:As            TYPE:Ключевое слово
+ID:11  VALUE:String            TYPE:Тип переменной
+ID:12  VALUE:Dim            TYPE:Ключевое слово
+ID:13  VALUE:year            TYPE:Идентификатор
+ID:14  VALUE:As            TYPE:Ключевое слово
+ID:15  VALUE:Integer            TYPE:Тип переменной
+ID:16  VALUE:Sub            TYPE:Ключевое слово
+ID:17  VALUE:Information            TYPE:Идентификатор
+ID:18  VALUE:(            TYPE:Специальный символ
+ID:19  VALUE:)            TYPE:Специальный символ
+ID:20  VALUE:WriteLine            TYPE:Ключевое слово
+ID:21  VALUE:(            TYPE:Специальный символ
+ID:22  VALUE:year            TYPE:Идентификатор
+ID:23  VALUE:)            TYPE:Специальный символ
+ID:24  VALUE:End            TYPE:Ключевое слово
+ID:25  VALUE:Sub            TYPE:Ключевое слово
+ID:26  VALUE:End            TYPE:Ключевое слово
+ID:27  VALUE:Structure            TYPE:Ключевое слово
+ID:28  VALUE:Sub            TYPE:Ключевое слово
+ID:29  VALUE:Main            TYPE:Ключевое слово
+ID:30  VALUE:(            TYPE:Специальный символ
+ID:31  VALUE:)            TYPE:Специальный символ
+ID:32  VALUE:Dim            TYPE:Ключевое слово
+ID:33  VALUE:book1            TYPE:Идентификатор
+ID:34  VALUE:As            TYPE:Ключевое слово
+ID:35  VALUE:Book            TYPE:Идентификатор
+ID:36  VALUE:book1            TYPE:Идентификатор
+ID:37  VALUE:.            TYPE:Специальный символ
+ID:38  VALUE:name            TYPE:Идентификатор
+ID:39  VALUE:=            TYPE:Специальный символ
+ID:40  VALUE:"War"            TYPE:Строка
+ID:41  VALUE:book1            TYPE:Идентификатор
+ID:42  VALUE:.            TYPE:Специальный символ
+ID:43  VALUE:author            TYPE:Идентификатор
+ID:44  VALUE:=            TYPE:Специальный символ
+ID:45  VALUE:"William"            TYPE:Строка
+ID:46  VALUE:book1            TYPE:Идентификатор
+ID:47  VALUE:.            TYPE:Специальный символ
+ID:48  VALUE:year            TYPE:Идентификатор
+ID:49  VALUE:=            TYPE:Специальный символ
+ID:50  VALUE:1869            TYPE:Число
+ID:51  VALUE:Information            TYPE:Идентификатор
+ID:52  VALUE:(            TYPE:Специальный символ
+ID:53  VALUE:)            TYPE:Специальный символ
+ID:54  VALUE:ReadLine            TYPE:Ключевое слово
+ID:55  VALUE:(            TYPE:Специальный символ
+ID:56  VALUE:book            TYPE:Идентификатор
+ID:57  VALUE:)            TYPE:Специальный символ
+ID:58  VALUE:End            TYPE:Ключевое слово
+ID:59  VALUE:Sub            TYPE:Ключевое слово
+ID:60  VALUE:For            TYPE:Ключевое слово
+ID:61  VALUE:i            TYPE:Идентификатор
+ID:62  VALUE:As            TYPE:Ключевое слово
+ID:63  VALUE:Integer            TYPE:Тип переменной
+ID:64  VALUE:=            TYPE:Специальный символ
+ID:65  VALUE:1            TYPE:Число
+ID:66  VALUE:To            TYPE:Ключевое слово
+ID:67  VALUE:9            TYPE:Число
+ID:68  VALUE:WriteLine            TYPE:Ключевое слово
+ID:69  VALUE:(            TYPE:Специальный символ
+ID:70  VALUE:"OK"            TYPE:Строка
+ID:71  VALUE:)            TYPE:Специальный символ
+ID:72  VALUE:Next            TYPE:Ключевое слово
+ID:73  VALUE:End            TYPE:Ключевое слово
+ID:74  VALUE:Module            TYPE:Ключевое слово
