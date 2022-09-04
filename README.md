@@ -20,7 +20,7 @@
 Входные данные:
 <div>
 <p>
-  <img  src="https://github.com/hedgehogscodes/lexical-syntactic-analyzer/blob/main/assets/входные.png"/>
+  <img  src="https://github.com/hedgehogscodes/lexical-syntactic-analyzer/blob/main/assets/выходные.png"/>
 </p>
 </div>
 Вывод токенов:
@@ -32,6 +32,6 @@
 Результат:
 <div>
 <p>
-  <img  src="https://github.com/hedgehogscodes/lexical-syntactic-analyzer/blob/main/assets/выходные.png"/>
+  <img  src="https://github.com/hedgehogscodes/lexical-syntactic-analyzer/blob/main/assets/работа.png"/>
 </p>
 </div>
